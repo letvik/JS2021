@@ -17,7 +17,8 @@ const x = null;
 const y = undefined;
 let z;
 
-console.log(typeof name)
+console.log(typeof name);
+console.log(name);
 
 //------------------------------------------------------------
 const newName = 'John';
